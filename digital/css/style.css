@@ -190,9 +190,9 @@ ul,li{
 	line-height: 29px;
 	font-weight: 600;
 	padding: 8px 24px;
-	background: #222222;
+	background: #046c79;
 	letter-spacing: 1px;
-	border: 1px solid #222222;
+	border: 1px solid #046c79;
 	text-transform: uppercase;
 	display: inline-block;
 	transition:all 0.5s ease;
@@ -463,12 +463,13 @@ ul,li{
 	width:100%;
 	z-index: 9999;
 	padding: 0px 70px;
+	background:#e5e5e5;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
-	box-shadow: 0 0 11px 3px #cccccc;
+	
 }
 .fixed-header{
 	position:fixed;
@@ -524,7 +525,7 @@ ul,li{
 	position:relative;
 	display:block;
 	font-size: 14px;
-	color:#222222;
+	color:black;
 	line-height: 26px;
 	font-weight:600;
 	opacity:1;
@@ -702,7 +703,7 @@ ul,li{
     background-size:cover;
     background-position:center center;
     overflow:hidden;
-    background: #282e35;
+    background: #046c79;
 }
 .fact-counter .auto-container{
     position:relative;
@@ -954,7 +955,7 @@ ul,li{
 }
 .choose-us .progress-item .progress-bar {
 	position: relative;
-	background: #282e35;
+	background: #046c79;
 	height: 5px;
 	text-align: left;
 	-webkit-transition: all 1s ease 0s;
@@ -1109,7 +1110,7 @@ ul,li{
 
 .sponsors-logos{
 	padding: 40px 0px;
-	background: #282e35;
+	background: #046c79;
 }
 .sponsors-logos .sponsors-container{
 	max-width: 991px;
@@ -1365,7 +1366,9 @@ ul,li{
 
 .subscribe-section {
 	position: relative;
-	padding: 110px 0px 120px;
+	padding: 10px 0px 10px;
+	background: #046c79;
+	
 }
 .subscribe-section .section-title h2{
 	padding-bottom: 0px;
@@ -1414,12 +1417,12 @@ ul,li{
 }
 .subscribe-section .social-links li i{
 	font-size: 16px;
-	color: #848484;
+	color: #f9f7f7;
 	width: 50px;
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
-	border: 1px solid #e5e5e5;
+	border: 1px solid #0e0e0e;
 }
 
 
@@ -1434,7 +1437,7 @@ ul,li{
 
 .footer-bottom{
 	padding: 13px 0px;
-	background: #ffffff;
+	background: #046c79;
 	border-top: 1px solid #e5e5e5;
 }
 .footer-bottom .copyright-text p{
