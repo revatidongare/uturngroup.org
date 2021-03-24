@@ -356,11 +356,11 @@
                 </article> 
                 <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="item">
-                         <img src="images/index/1-web-dev-480x340.jpg" alt="">
+                         <img src="images/portfolio/email-market.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Email Marketing</h5>
+                            
+                           <!--  <a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>
                     </div>
                 </article> 
@@ -434,15 +434,14 @@
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="text-area">
-                                <p>I liked working with  JWCreation and he was especially adaptable. JWCreation was able to work with our content creator to create ads which were effective with our audience.  JWCreation managed to grow our revenue across both Facebook and Google Ads by over 600% whilst reducing our CPA by half.</p>
-                                <h5>Sagar Kumbhar</h5>
-                                <span>Manager</span>
+                                <p>I liked working with  Uturn Group and he was especially adaptable. Uturn Group was able to work with our content creator to create ads which were effective with our audience. Uturn Group managed to grow our revenue across both Facebook and Google Ads by over 600% whilst reducing our CPA by half.</p>
+                                <h5>Whispering Teaks, Sangli</h5>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="image-box">
                                 <figure>
-                                    <img src="images/resource/1.png" alt="">
+                                    <img src="images/index/whispering.jpg" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -452,15 +451,14 @@
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="text-area">
-                                <p>Digital Marketing JWCreation Did an excellent job handling the design of our web site. Jomer and his team made sure I was updated throughout the process and gave me insight to help make my web page more user friendly for my customers. I would highly recommend Digital Marketing JWCreation if you are looking to build your brand online or just in need of web design.</p>
-                                <h5>Pratap Raje</h5>
-                                <span>Owner</span>
+                                <p>Digital Marketing Uturn Group did an excellent job handling the design of our web site. Jomer and his team made sure I was updated throughout the process and gave me insight to help make my web page more user friendly for my customers. I would highly recommend Digital Marketing Uturn Group if you are looking to build your brand online or just in need of web design.</p>
+                                <h5>4Seasons Resorts, Mulshi</h5>    
                             </div>                                
                         </div>
                         <div class="col-lg-4">
                             <div class="image-box">
                                 <figure>
-                                    <img src="images/resource/1.png" alt="">
+                                    <img src="images/index/fourseasons-370x370.jpg" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -471,14 +469,14 @@
                         <div class="col-lg-8">
                             <div class="text-area">
                                 <p>Working with Nowspeed to support our organic and paid social media activity has extended the marketing activities we are able to achieve. We appreciate that the communication and response from our account rep is prompt and professional, and using the Basecamp platform has made collaboration easy.</p>
-                                <h5>Vinod Kamboj</h5>
-                                <span>Manager</span>
+                                <h5>Green Gate, Mulshi</h5>
+                                
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="image-box">
                                 <figure>
-                                    <img src="images/resource/1.png" alt="">
+                                    <img src="images/index/greengate.jpg" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -489,14 +487,14 @@
                         <div class="col-lg-8">
                             <div class="text-area">
                                 <p>Rutus holidays resort panhala aim to provide the best and a comfortable living to all our guests so that they make the most of their stay and have memories.</p>
-                                <h5>Ritesh</h5>
-                                <span>Manager</span>
+                                <h5>Rutus Holidays Resort, Panhala</h5>
+                                
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="image-box">
                                 <figure>
-                                    <img src="images/resource/1.png" alt="">
+                                    <img src="images/index/rutus-holiday.jpg" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -574,11 +572,9 @@
             </div>
             <div class="col-lg-6 col-md-12 col-xs-12">
                 <div class="text">
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt culpa qui officia deserunt mollit anim id est labo rum. Sed perspiciatis unde omnis an natus error sit voluptatem.</p>
+                    <p><b style="color: #046c79">Uturn Group Organization</b> is a full service Digital-Creative-Marketing agency that develops results-driven campaigns to amplify online brand presence. Build an authentic and transparent relationship with your target consumers through our Web Design and Development, Sales Optimization, SEO, SMM, Media Planning and Buying, Graphic Designing and Video Marketing solutions.<br><b style="color: #046c79">Uturn Group Organization</b> is the one-stop shop for your every digital need.</p>
                 </div>
-                <div class="content-text">
-                    <p>Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebe tea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit, sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est, dolorem ipsum quia dolor sit amet, consectetur adipisci velit.</p>
-                </div>
+                
             </div>
             <div class="col-lg-6 col-md-12 col-xs-12">
                 <div class="causes-progress">

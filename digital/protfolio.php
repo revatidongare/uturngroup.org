@@ -20,15 +20,14 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background: url(images/background/2.jpg);">
+    <section class="page-title" style="background: url(images/portfolio/portfolio-banner.jpg);">
         <div class="container text-center">
             <div class="title">
-                <h4>Our Portfolio</h4>
+                <h4 >................</h4>
             </div>
             <ul class="title-manu">
-                <li><a href="index.php">home</a></li>
-                <li>></li>
-                <li>Our Portfolio</li>
+                <li style="font-size: 25px"><a href="index.php">home</a></li>
+                
             </ul>         
         </div>
     </section>
@@ -44,100 +43,107 @@
                         <span>All Work</span>
                     </li>
                     <li data-filter=".Branding">
-                        <span>Branding</span>
+                        <span>DESIGN & DEVELOPMENT</span>
                     </li>
                     <li data-filter=".webdesign">
-                        <span>Web Design</span>
+                        <span>ONLINE MARKETING</span>
                     </li>
-                    <li data-filter=".Illustration">
-                        <span>Illustration</span>
+                    <!-- <li data-filter=".Illustration">
+                        <span>HGHJG</span>
                     </li>
                     <li data-filter=".Creative">
                         <span>Creative</span>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
             <div class="row filter-layout">
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign Creative">
+               <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding">
                     <div class="item">
-                        <img src="images/gallery/1.jpg" alt="">
+                        <img src="images/portfolio/content-market.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Content Marketing Strategy</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
+                        </div>
+                    </div>
+                </article>
+                  <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign">
+                    <div class="item">
+                        <img src="images/portfolio/social-media-marketing.jpg" alt="">
+                        <div class="overlay">
+                            <h5 style="color: #09C187">Social Media Marketing</h5>
+                            
+                            <!-- a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>                    
                     </div>
                 </article> 
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Illustration webdesign">
+              
+                  <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign">
                     <div class="item">
-                        <img src="images/gallery/2.jpg" alt="">
+                        <img src="images/portfolio/email-market.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
-                        </div>
+                            <h5 style="color: #09C187">Email Marketing</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
+                        </div>                    
                     </div>
-                </article> 
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding Illustration">
+                </article>
+                   <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding">
                     <div class="item">
-                        <img src="images/gallery/3.jpg" alt="">
+                        <img src="images/portfolio/web-design.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Web Design Services</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>
                     </div>
                 </article>
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item  Illustration">
+                 <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign">
                     <div class="item">
-                        <img src="images/gallery/4.jpg" alt="">
+                        <img src="images/portfolio/1.jpeg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
-                        </div>
-                    </div>
-                </article>
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign">
-                    <div class="item">
-                        <img src="images/gallery/5.jpg" alt="">
-                        <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Search Engine Optimization</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>                    
                     </div>
                 </article> 
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Creative webdesign">
+                  <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item webdesign">
                     <div class="item">
-                        <img src="images/gallery/6.jpg" alt="">
+                        <img src="images/portfolio/pay-per-click.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
-                        </div>
+                            <h5 style="color: #09C187">Pay Per Click (PPC) Management</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
+                        </div>                    
                     </div>
-                </article> 
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding">
+                </article>
+              
+                
+               
+                 <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding">
                     <div class="item">
-                        <img src="images/gallery/7.jpg" alt="">
+                        <img src="images/portfolio/web-developement.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Web Development Services</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>
                     </div>
                 </article>
-                <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding Creative">
+                
+                 <article class="col-lg-3 col-md-6 col-sm-6 col-xs-12 filter-item Branding">
                     <div class="item">
-                        <img src="images/gallery/8.jpg" alt="">
+                        <img src="images/portfolio/mobile-markert.jpg" alt="">
                         <div class="overlay">
-                            <h5>Web Development</h5>
-                            <p>Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtempor incid.</p>
-                            <a href="#"><i class="flaticon-right-arrow"></i></a>
+                            <h5 style="color: #09C187">Mobile Marketing Services</h5>
+                            
+                            <!-- <a href="#"><i class="flaticon-right-arrow"></i></a> -->
                         </div>
                     </div>
                 </article>
+             
+           
             </div>
         </div>
     </section>
@@ -145,37 +151,7 @@
 
 
     <!--Subscribe Section-->
-    <section class="subscribe-section style-two">
-        <div class="container">
-            <div class="text-area">
-                <div class="section-title text-center">
-                    <h2>Subscribe Newsletter</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm</p>
-                </div>
-                <form method="post" action="contact.html">
-                    <div class="row">
-                        <div class="col-lg-9">
-                            <div class="form-group">                        
-                                <input type="email" name="email" value="" placeholder="Enter your Email" required="">
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="form-group">                        
-                                <button type="submit" class="btn-style-one">SUBMIT</button>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-                <ul class="social-links text-center">
-                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
-                </ul>
-            </div>                
-        </div>
-    </section>
+   
     <!--End Subscribe Section-->
 
 

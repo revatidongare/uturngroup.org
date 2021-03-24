@@ -45,7 +45,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-vector"></i>
+                           <i class="fa fa-users" aria-hidden="true"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Shows Participation</h5></a>
@@ -56,7 +56,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-computer"></i>
+                            <i class="fa fa-trophy" aria-hidden="true"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Exhibition Participation</h5></a>
@@ -67,18 +67,19 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-bar-chart"></i>
+                            <i class="fas fa-award" aria-hidden="true"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Seminars</h5></a>
                             <p>Learning must be intriguing, applicable to real-world situations,​ based on outcome-based competencies, and generative of practical solutions to immediate problems and long-term plans.</p>
                         </div>
                     </div>
-                </div>
+                </div></div>
+                <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-vector"></i>
+                            <i class="fas fa-presentation"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Corporate Presentations</h5></a>
@@ -89,7 +90,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-photo-camera"></i>
+                           <i class="fas fa-ad"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>B2B Market Visits</h5></a>
@@ -100,7 +101,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-headphones"></i>
+                            <i class="fa fa-camera" aria-hidden="true"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Photography Service</h5></a>
@@ -108,10 +109,12 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row">
                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-headphones"></i>
+                            <i class="fas fa-ad"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Billboard Advertising</h5></a>
@@ -122,7 +125,7 @@
                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-headphones"></i>
+                            <i class='fas fa-ad'>fa-ad</i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Static Advertising</h5></a>
@@ -133,7 +136,7 @@
                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-headphones"></i>
+                               <i class = "fa fa-adjust custom"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Transit Advertising</h5></a>

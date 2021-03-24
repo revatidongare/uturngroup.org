@@ -80,7 +80,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
-                            <i class="flaticon-vector"></i>
+                            <i class="fa fa-google" aria-hidden="true"></i>
                         </div>                           
                         <div class="text">
                             <a href="#"><h5>Google Business</h5></a>

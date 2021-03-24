@@ -123,7 +123,7 @@
                     <div class="item-holder">
                         <div class="image-box">
                             <figure>
-                                <img src="images/index/vaishnavi.jpg" alt="">
+                                <img src="images/index/vaishnavi.png" alt="">
                             </figure>
                             <ul class="social-links">
                                <span style="color: #09C187; font-size: 15px">“Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it?"</span>

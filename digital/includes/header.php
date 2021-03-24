@@ -2,7 +2,7 @@
         <div class="container-fluid clearfix">
             <div class="logo">
                 <figure>
-                    <a href="index.html"><img src="images/index/logo-132x55.png" alt=""></a>
+                    <a href="index.html"><img src="images/index/135x65-logo.png" alt="" style="margin: -15px"></a>
                 </figure>
             </div>
             <nav class="main-menu" style="color: black">
@@ -40,15 +40,15 @@
                 </div>                    
             </nav>
             <div class="link-button">
-                <div class="search_option">
+               <!--  <div class="search_option">
 
                     <a href="#"><span class="icon fa fa-search" style="color: black" ></span></a>
-                </div>
+                </div> -->
                 <ul class="social-links">
                     <li><a href="http://facebook.com/vaibhav.k.123276/" target="_blank"><i class="fa fa-facebook" aria-hidden="true" style="color:black" ></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter" aria-hidden="true" style="color: black" ></i></a></li>
                     <li><a href="#"><i class="fa fa-rss" aria-hidden="true" style="color: black" ></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true" style="color: black" ></i></a></li>
+                    <li><a href="mailto:contact@uturngroup.org"><i class="fa fa-google-plus" aria-hidden="true" style="color: black" ></i></a></li>
                     <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true" style="color: black" ></i></a></li>
                 </ul>
             </div>

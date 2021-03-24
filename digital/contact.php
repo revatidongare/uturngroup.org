@@ -20,15 +20,14 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background: url(images/index/2.jpg);">
+    <section class="page-title" style="background: url(images/index/ContactUs.jpg);">
         <div class="container text-center">
             <div class="title">
                 <h4>Contact Us</h4>
             </div>
             <ul class="title-manu">
-                <li><a href="index.php">home</a></li>
-                <li>></li>
-                <li>Contact Us</li>
+               <li style="font-size: 20px"><a href="index.php">home</a></li>
+                
             </ul>         
         </div>
     </section>

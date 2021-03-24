@@ -1,6 +1,6 @@
 <head>
 <meta charset="utf-8">
-<title>Digency Template Html5 | Home Page</title>
+<title>Utrun Group Organization</title>
 
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -12,6 +12,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/index/icon-32x32.jpg" type="image/x-icon">
+<link rel="icon" href="images/index/icon-32x32.jpg" type="image/x-icon">
 </head>
