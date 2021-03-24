@@ -20,7 +20,7 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background: url(images/index/ContactUs.jpg);">
+    <section class="page-title" style="background: url(images/index/contact-us.jpg);">
         <div class="container text-center">
             <div class="title">
                 <h4>Contact Us</h4>

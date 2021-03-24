@@ -20,13 +20,13 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background: url(images/portfolio/portfolio-banner.jpg);">
+    <section class="page-title" style="background: url(images/index/37275.jpg);">
         <div class="container text-center">
             <div class="title">
-                <h4 >................</h4>
+                <h4 >Our Portfolio</h4>
             </div>
             <ul class="title-manu">
-                <li style="font-size: 25px"><a href="index.php">home</a></li>
+                <li style="font-size: 25px"><a href="index.php">Home</a></li>
                 
             </ul>         
         </div>

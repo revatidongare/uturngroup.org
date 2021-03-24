@@ -2,7 +2,7 @@
         <div class="container-fluid clearfix">
             <div class="logo">
                 <figure>
-                    <a href="index.html"><img src="images/index/135x65-logo.png" alt="" style="margin: -15px"></a>
+                    <a href="index.html"><img src="images/index/logo-119x81.png" alt="" style="margin: -25px"></a>
                 </figure>
             </div>
             <nav class="main-menu" style="color: black">
