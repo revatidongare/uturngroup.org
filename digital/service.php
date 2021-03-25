@@ -42,7 +42,7 @@
                 <p>Are you looking for an effective way to grow your business’ brand awareness, number of new customers, and website traffic? Then you should be on social media! <br>Check out our social media marketing service and build a strong social media presence.</p>
             </div>
             <div class="row">
-                  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -56,7 +56,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                           <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -70,7 +70,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -86,7 +86,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                 </div>
             </div>
              <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                           <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -100,7 +100,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -114,7 +114,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"

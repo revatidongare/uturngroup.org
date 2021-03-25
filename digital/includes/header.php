@@ -36,6 +36,20 @@
                         </li>       -->  
                          <li><a href="team.php">Team</a></li>           
                         <li><a href="contact.php">Contact Us</a></li>
+                        <li  class="blink" >
+                                        <a href="HR/index.php"style="color: #046c79">
+                                     Recruitment Consultancy
+                                        </a>
+                                       
+
+                                    </li>
+                                    <li  class="blink" >
+                                        <a href="c2c/index.php"style="color: #046c79">
+                                     Campus to Career
+                                        </a>
+                                       
+
+                                    </li>
                     </ul>
                 </div>                    
             </nav>
@@ -47,9 +61,9 @@
                 <ul class="social-links">
                     <li><a href="http://facebook.com/vaibhav.k.123276/" target="_blank"><i class="fa fa-facebook" aria-hidden="true" style="color:black" ></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter" aria-hidden="true" style="color: black" ></i></a></li>
-                    <li><a href="#"><i class="fa fa-rss" aria-hidden="true" style="color: black" ></i></a></li>
+                    
                     <li><a href="mailto:contact@uturngroup.org"><i class="fa fa-google-plus" aria-hidden="true" style="color: black" ></i></a></li>
-                    <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true" style="color: black" ></i></a></li>
+                    
                 </ul>
             </div>
         </div>

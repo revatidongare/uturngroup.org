@@ -26,7 +26,7 @@
                 <h4>Offline Services</h4>
             </div>
             <ul class="title-manu">
-                <li style="font-size: 20px"><a href="index.php">home</a></li>
+                <li style="font-size: 20px"><a href="index.php">Home</a></li>
                
             </ul>         
         </div>
@@ -42,8 +42,8 @@
                 <p>Outdoor marketing, quite simply, is marketing conducted outdoors. Billboards—whether print or digital—comprise about 65 percent of all outdoor marketing, while signs on buses and public benches are also popular locations.There are almost as many venues for outdoor marketing as there are physical locations</p>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="item-holder text-center">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                      <div class="item-holder text-center">
                         <div class="icon-box">
                          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="50" height="50"
@@ -56,7 +56,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -70,7 +70,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+               <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -83,9 +83,10 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                             <p>Learning must be intriguing, applicable to real-world situations,​ based on outcome-based competencies, and generative of practical solutions to immediate problems and long-term plans.</p>
                         </div>
                     </div>
-                </div></div>
-                <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                </div>
+            </div>
+             <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -99,11 +100,11 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="60" height="60"
+width="50" height="50"
 viewBox="0 0 172 172"
 style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#1abc9c"><path d="M127.28,6.88c-5.65719,0 -10.32,4.66281 -10.32,10.32v3.44h-20.64v44.72h6.88v-8.815c2.0425,1.19594 4.36719,1.935 6.88,1.935h41.28c2.51281,0 4.8375,-0.73906 6.88,-1.935v15.695h-44.72v6.88h51.6v-58.48h-20.64v-3.44c0,-5.65719 -4.66281,-10.32 -10.32,-10.32zM127.28,13.76h6.88c1.94844,0 3.44,1.49156 3.44,3.44v3.44h-13.76v-3.44c0,-1.94844 1.49156,-3.44 3.44,-3.44zM103.2,27.52h55.04v17.2c0,3.80281 -3.07719,6.88 -6.88,6.88h-41.28c-3.80281,0 -6.88,-3.07719 -6.88,-6.88zM130.72,41.28c-1.89469,0 -3.44,1.54531 -3.44,3.44c0,1.89469 1.54531,3.44 3.44,3.44c1.89469,0 3.44,-1.54531 3.44,-3.44c0,-1.89469 -1.54531,-3.44 -3.44,-3.44zM86,72.24v6.88h8.89563l-22.65563,22.65563v-8.89563h-6.88v20.64h20.64v-6.88h-8.89562l22.65562,-22.65562v8.89562h6.88v-20.64zM37.84,92.88c-5.65719,0 -10.32,4.66281 -10.32,10.32v3.44h-20.64v58.48h68.8v-44.72h-6.88v10.32c0,3.78938 -3.09062,6.88 -6.88,6.88h-41.28c-3.78937,0 -6.88,-3.09062 -6.88,-6.88v-17.2h44.72v-6.88h-3.44v-3.44c0,-5.65719 -4.66281,-10.32 -10.32,-10.32zM37.84,99.76h6.88c1.94844,0 3.44,1.49156 3.44,3.44v3.44h-13.76v-3.44c0,-1.94844 1.49156,-3.44 3.44,-3.44zM41.28,127.28c-1.89469,0 -3.44,1.54531 -3.44,3.44c0,1.89469 1.54531,3.44 3.44,3.44c1.89469,0 3.44,-1.54531 3.44,-3.44c0,-1.89469 -1.54531,-3.44 -3.44,-3.44zM13.76,142.55844c2.02906,1.19594 4.36719,1.92156 6.88,1.92156h41.28c2.51281,0 4.85094,-0.72562 6.88,-1.92156v15.68156h-55.04z"></path></g></g></svg>
                         </div>                           
@@ -113,11 +114,11 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="item-holder text-center">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                   <div class="item-holder text-center">
                         <div class="icon-box">
                          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="55" height="55"
+width="50" height="50"
 viewBox="0 0 172 172"
 style=" fill:#26e07f;"><defs><linearGradient x1="60.46875" y1="73.72081" x2="60.46875" y2="115.53563" gradientUnits="userSpaceOnUse" id="color-1_43979_gr1"><stop offset="0" stop-color="#95facc"></stop><stop offset="1" stop-color="#6ec8ff"></stop></linearGradient><linearGradient x1="86" y1="30.90625" x2="86" y2="141.35981" gradientUnits="userSpaceOnUse" id="color-2_43979_gr2"><stop offset="0" stop-color="#2af598"></stop><stop offset="1" stop-color="#009efd"></stop></linearGradient><linearGradient x1="142.4375" y1="30.90625" x2="142.4375" y2="141.35981" gradientUnits="userSpaceOnUse" id="color-3_43979_gr3"><stop offset="0" stop-color="#2af598"></stop><stop offset="1" stop-color="#009efd"></stop></linearGradient><linearGradient x1="26.875" y1="30.90625" x2="26.875" y2="141.35981" gradientUnits="userSpaceOnUse" id="color-4_43979_gr4"><stop offset="0" stop-color="#2af598"></stop><stop offset="1" stop-color="#009efd"></stop></linearGradient><linearGradient x1="112.875" y1="30.90625" x2="112.875" y2="141.35981" gradientUnits="userSpaceOnUse" id="color-5_43979_gr5"><stop offset="0" stop-color="#2af598"></stop><stop offset="1" stop-color="#009efd"></stop></linearGradient></defs><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g><path d="M69.875,77.9375v34.9375c-10.38987,0 -18.8125,-8.42262 -18.8125,-18.8125c0,-10.38988 8.42263,-18.14062 18.8125,-18.14062" fill="url(#color-1_43979_gr1)"></path><path d="M155.875,86h-24.1875v-24.1875c0,-7.40944 -6.02806,-13.4375 -13.4375,-13.4375h-2.6875c0,-2.96431 -2.41069,-5.375 -5.375,-5.375h-5.375c-2.96431,0 -5.375,2.41069 -5.375,5.375h-6.12481l-3.53675,-10.61294c-1.10188,-3.29756 -4.17369,-5.51206 -7.64862,-5.51206h-24.50194c-3.47494,0 -6.54944,2.2145 -7.64862,5.51206l-3.53944,10.61294h-6.12481c0,-2.96431 -2.41069,-5.375 -5.375,-5.375h-5.375c-2.96431,0 -5.375,2.41069 -5.375,5.375h-2.6875c-7.40944,0 -13.4375,6.02806 -13.4375,13.4375v64.5c0,7.40944 6.02806,13.4375 13.4375,13.4375h80.625h53.75c4.44512,0 8.0625,-3.61738 8.0625,-8.0625v-37.625c0,-4.44513 -3.61737,-8.0625 -8.0625,-8.0625zM158.5625,94.0625v12.32487l-18.95225,18.95225l-13.14725,-11.26869c-3.17663,-2.72781 -7.98188,-2.54237 -10.94081,0.41925l-16.08469,16.08469v-36.51237c0,-1.48081 1.204,-2.6875 2.6875,-2.6875h53.75c1.4835,0 2.6875,1.20669 2.6875,2.6875zM130.57488,134.375h-27.33725l16.082,-16.08469c0.98631,-0.98631 2.58538,-1.04544 3.64156,-0.13975l12.8355,10.99994zM55.07225,39.46325c0.36819,-1.09919 1.39481,-1.83825 2.55044,-1.83825h24.50194c1.15831,0 2.18494,0.73906 2.55044,1.83825l2.97237,8.91175h-35.54487zM13.4375,126.3125v-13.4375h10.75v-5.375h-10.75v-5.375h10.75v-5.375h-10.75v-5.375h10.75v-5.375h-10.75v-5.375h10.75v-5.375h-10.75v-13.4375c0,-4.44512 3.61737,-8.0625 8.0625,-8.0625h13.4375h15.37519h39.12731h18.06h10.75c4.44512,0 8.0625,3.61738 8.0625,8.0625v24.1875h-24.1875c-1.30075,0 -2.5155,0.33862 -3.60394,0.88956c-3.21963,-12.84088 -14.82425,-22.38956 -28.64606,-22.38956c-16.29969,0 -29.5625,13.26281 -29.5625,29.5625c0,16.29969 13.26281,29.5625 29.5625,29.5625c9.9975,0 18.834,-5.00144 24.1875,-12.61781v20.68031c0,0.946 0.1935,1.84363 0.4945,2.6875h-73.057c-4.44513,0 -8.0625,-3.61737 -8.0625,-8.0625zM94.0625,94.0625c0,13.33538 -10.84944,24.1875 -24.1875,24.1875c-13.33806,0 -24.1875,-10.85212 -24.1875,-24.1875c0,-13.33538 10.84944,-24.1875 24.1875,-24.1875c13.33806,0 24.1875,10.85213 24.1875,24.1875zM155.875,134.375h-17.69987l20.38737,-20.38737v17.69987c0,1.48081 -1.204,2.6875 -2.6875,2.6875z" fill="url(#color-2_43979_gr2)"></path><path d="M137.0625,99.4375h10.75v5.375h-10.75z" fill="url(#color-3_43979_gr3)"></path><path d="M29.5625,59.125h-5.375c-2.96431,0 -5.375,2.41069 -5.375,5.375c0,2.96431 2.41069,5.375 5.375,5.375h5.375c2.96431,0 5.375,-2.41069 5.375,-5.375c0,-2.96431 -2.41069,-5.375 -5.375,-5.375z" fill="url(#color-4_43979_gr4)"></path><path d="M110.1875,69.875h5.375c2.96431,0 5.375,-2.41069 5.375,-5.375c0,-2.96431 -2.41069,-5.375 -5.375,-5.375h-5.375c-2.96431,0 -5.375,2.41069 -5.375,5.375c0,2.96431 2.41069,5.375 5.375,5.375z" fill="url(#color-5_43979_gr5)"></path></g></g></svg>
                         </div>                           
@@ -128,8 +129,8 @@ style=" fill:#26e07f;"><defs><linearGradient x1="60.46875" y1="73.72081" x2="60.
                     </div>
                 </div>
             </div>
-            <div class="row">
-                   <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+             <div class="row">
+                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="item-holder text-center">
                         <div class="icon-box">
                           <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -143,8 +144,8 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                   <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="item-holder text-center">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                 <div class="item-holder text-center">
                         <div class="icon-box">
    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="50" height="50"
@@ -157,8 +158,8 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                         </div>
                     </div>
                 </div>
-                   <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="item-holder text-center">
+                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                 <div class="item-holder text-center">
                         <div class="icon-box">
                                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="50" height="50"
@@ -169,31 +170,16 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                             <a href="#"><h5>Transit Advertising</h5></a>
                             <p>This is a popular type of outdoor advertising – typically seen on trains. About 24% of consumers said that they had visited a business after being exposed to an outdoor advertisement.</p>
                         </div>
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
     </section>
     <!--End Wellcome Section-->
 
 
     <!--Fact Counter-->
-    
-    <!--End Fact Counter-->
-
-
-    <!--Choose Us-->
-   
-    <!--End Choose Us-->
-
-
-    <!--Subscribe Section-->
-   
-    <!--End Subscribe Section-->
-
-
-    <!--main-footer-->
-   <?php include'includes/footer.php';?>
+    <?php include'includes/footer.php';?>
     <!--End main-footer-->
 
 

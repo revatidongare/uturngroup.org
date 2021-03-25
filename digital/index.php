@@ -1,5 +1,9 @@
+
 <!DOCTYPE html>
 <html>
+ 
+        
+
  <?php include'includes/head.php';?>
 
 <body>
@@ -19,7 +23,10 @@
     <!--End Main Header -->
     
     
-    <!--Start rev slider wrapper-->     
+    <!--Start rev slider wrapper-->  
+   
+     
+    
     <section class="rev_slider_wrapper">
         <div id="slider1" class="rev_slider"  data-version="5.0">
             <ul>
@@ -139,8 +146,27 @@
             </ul>
         </div>
     </section>
-    <!--End rev slider wrapper-->
 
+    <!--End rev slider wrapper-->
+ <section class="subscribe-section">
+        <div class="container">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="call clearfix" style="margin-left: 50px">
+                            <h6 style="color: black;font-size: 25px;margin-bottom: 10px">Call Us</h6>
+                             <li style="color: white;font-size: 20px"><i class="fa fa-phone" aria-hidden="true"></i><a style="color: white" href="tel:+91 8766974657">  +91 8766974657</a></li>
+                              <li style="color: white;font-size: 20px"><i class="fa fa-phone" aria-hidden="true"></i><a style="color: white" href="tel:+91 8766974657">  +91 9579442271</a></li>
+                            
+                        </div>
+                    </div>    
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <div class="email_us clearfix" style="margin-left: 50px">
+                            <h6 style="color: black;font-size: 25px;margin-bottom: 10px">Email us</h6>
+                             <li style="color: white;font-size: 20px"><i class="fa fa-envelope" aria-hidden="true"></i><a style="color: white" href="mailto:contact@uturngroup.org">  contact@uturngroup.org</li>
+                        </div>
+                    </div>
+
+        
+    </section>
 
     <!--Wellcome Section-->
    <section class="wellcome-section">
@@ -823,5 +849,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <div class="scroll-to-top scroll-to-target" data-target=".header-top"><span class="icon fa fa-angle-up"></span></div>
 
 <?php include'includes/script.php';?>
+
 </body>
 </html>
+
