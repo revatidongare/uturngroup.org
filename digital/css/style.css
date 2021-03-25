@@ -616,7 +616,7 @@ ul,li{
 	margin-left: 22px;
 }
 .blink {
-        animation: blinker-one 1s linear infinite;
+        animation: blinker-one 1.5s linear infinite;
       }
       @keyframes blinker-one {
         0% {
