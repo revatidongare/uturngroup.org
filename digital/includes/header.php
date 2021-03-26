@@ -1,6 +1,6 @@
 <header class="main-header sticky-header">
         <div class="container-fluid clearfix">
-            <div class="logo">
+            <div class="logo" style="padding-left: 20px;padding-top: 2px">
                 <figure>
                     <a href="index.html"><img src="images/index/logo-119x81.png" alt="" style="margin: -25px"></a>
                 </figure>
@@ -19,7 +19,7 @@
                         <li class="current"><a href="index.php">Home</a></li>                          
                         <li><a href="about.php">About</a></li>
                         <!-- <li><a href="service.php">Services</a></li> -->
-                        <li class="dropdown"><a href="#">Services</a>
+                        <li class="dropdown" style="color: #046c79"><a href="#">Services</a>
                             <ul>
                                 <li><a href="service.php">Online Services</a></li>
                                 <li><a href="oservice.php">Offline Services</a></li>

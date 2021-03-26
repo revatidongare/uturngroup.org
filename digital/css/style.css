@@ -525,8 +525,8 @@ ul,li{
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	font-size: 14px;
-	color:black;
+	font-size: 18px;
+	color:#046c79;
 	line-height: 26px;
 	font-weight:600;
 	opacity:1;
