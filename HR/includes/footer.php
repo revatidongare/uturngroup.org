@@ -23,11 +23,11 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="terms.php">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="privacy.php">Privacy policy</a></li>
             </ul>
           </div>
 
@@ -45,11 +45,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Hermes Paras CHS 39/1 <br>
+             Ground floor opposite Kalyani Veg<br>
+              Kalyani Nagar Pune 411014 <br><br>
+              <strong>Phone:</strong> +91 9579442271<br>
+              <strong>Email:</strong> contact@uturngroup.org<br>
             </p>
 
           </div>
