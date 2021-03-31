@@ -63,32 +63,36 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Permanent Staffing</a></h4>
+              <p class="description">As a boutique firm, we have been instrumental in identifying candidates for niche positions, creating a strong candidate pool and engaging well with them.</p>
+               <a href="permant.php" class="btn-get-started animated fadeInUp">Read More</a>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Contract Staffing</a></h4>
+              <p class="description">We provide flexible contract staffing solutions that ensure business continuity for our clients while also prioritizing employee engagement.</p>
+               <a href="" class="btn-get-started animated fadeInUp">Read More</a>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Campus Recruitment</a></h4>
+              <p class="description">Working closely with fresh college recruits, we facilitate smooth onboarding of the candidate.Our strengths include end-to-end recruitment.</p>
+               <a href="" class="btn-get-started animated fadeInUp">Read More</a>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-blue">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Professional Resume Development</a></h4>
+              <p class="description">We Design resume as per the Latest Industry Standard and use the best SEO tools for effective Job search.</p>
+               <a href="" class="btn-get-started animated fadeInUp">Read More</a>
             </div>
           </div>
 
