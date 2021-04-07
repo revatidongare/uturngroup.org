@@ -34,7 +34,7 @@
                             </div>
                             <div class="form-group form-bottom">
                                 <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                <button class="btn-style-one" name="submit" type="submit" data-loading-text="Please wait...">send message</button>
+                                <button class="btn-style-one" name="submit" type="submit" data-loading-text="Please wait...">Send Message</button>
                             </div>
                         </form>
                     </div>
