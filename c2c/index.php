@@ -393,7 +393,7 @@
     
  
     
-    <div class="bg_content magnific">
+    <!-- <div class="bg_content magnific">
         <div>
             <h3>Discover the Campus</h3>
             <p>
@@ -401,7 +401,7 @@
             </p>
             <a href="https://vimeo.com/20370747" class="video_pop"><i class="arrow_triangle-right_alt2"></i></a>
         </div>
-    </div>
+    </div> -->
     <!-- <div class="container_gray_bg" id="newsletter_container">
         <div class="container margin_60">
             <div class="row">
