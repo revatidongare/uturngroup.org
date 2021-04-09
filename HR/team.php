@@ -15,10 +15,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Our Team</h2>
+          <h2 style="color: #046c79">Our Team</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Our Team</li>
+            <li style="color: #046c79">Our Team</li>
           </ol>
         </div>
 
@@ -43,7 +43,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Vaibhav</h4>
+                <h4 style="color: #046c79">Vaibhav</h4>
                 <span>Founder</span>
                 <p>Openly share and talk to people about your idea.Use their lack of interest or doubt to fuel your motivation to make it happen</p>
               </div>
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Revati</h4>
+                <h4 style="color: #046c79">Revati</h4>
                 <span>Team Lead</span>
                 <p>A self taught passionate developer who never give up for Creating graphical interface, using programming skills so that you can view & interact.</p>
               </div>
@@ -81,7 +81,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Pallavi</h4>
+                <h4 style="color: #046c79">Pallavi</h4>
                 <span>Developer</span>
                 <p>Your website is the center of your digital eco-system, like a brick and mortar location, the experience matters once a customer enters, just as much as the perception they have of you before they walk through the door</p>
               </div>
@@ -100,7 +100,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Pooja</h4>
+                <h4 style="color: #046c79">Pooja</h4>
                 <span>Graphics Designer</span>
                 <p>There are three responses to a piece of design – yes, no, and WOW!</p>
               </div>
@@ -119,8 +119,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Nrupali</h4>
-                <span>Graphics Designer</span>
+                <h4 style="color: #046c79">Nrupali</h4>
+                <span >Graphics Designer</span>
                 <p>Your Ability to Lead Your Clients and Your Team Will Determine the Level of Success You Achieve in Life as Well as Your Business</p>
               </div>
             </div>
@@ -129,7 +129,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/vaishnavi.png" class="img-fluid" alt="">
                 <div class="social">
                   <!-- <a href=""><i class="icofont-twitter"></i></a> -->
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -138,9 +138,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Vaishnavi</h4>
+                <h4 style="color: #046c79">Vaishnavi</h4>
                 <span>Intern</span>
-                <p>Amet labore numquam corrupti est. Nostrum amet voluptas consectetur dolor voluptatem architecto distinctio consequuntur eligendi. Quam impedit enim aut nesciunt aut dicta quam exercitationem. Reprehenderit exercitationem magnam. Ullam similique ut voluptas totam nobis porro accusamus nulla omnis.</p>
+                <p>“Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it?"</p>
               </div>
             </div>
           </div>
