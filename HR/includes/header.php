@@ -12,6 +12,7 @@
           <li><a href="index.php">Home</a></li>
           <li class="active"><a href="about.php">About Us</a></li>
           <li><a href="services.php">Services</a></li>
+          <li><a href="team.php">Team</a></li>
           <!-- <li><a href="portfolio.php">Portfolio</a></li> -->
           <!-- <li><a href="team.php">Team</a></li> -->
           <!-- <li><a href="blog.php">Blog</a></li> -->

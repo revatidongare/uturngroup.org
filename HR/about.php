@@ -15,10 +15,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>About Us</h2>
+          <h2 style="color: #046c79">About Us</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>About Us</li>
+            <li style="color: #046c79">About Us</li>
           </ol>
         </div>
 
@@ -34,29 +34,69 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
             <p>
+            </p>
+            <p>
+            </p>
+            <br>
+            <br>
+           <h5 style="color: #046c79">Life has always been about correct decisions by taking failures as a learning curve & experience.</h5>
+            <p class="font-italic">
+             
+             We at <b style="color: #046c79">U-Turn Group</b> always believe that a correct turn in your life can make things amazing and different.
+<b style="color: #046c79">U-Turn Group</b> not only focuses on choosing right companies but also makes you prepare to face the world & be confident in choosing the correct career path of success.<br>
+After <b style="color: #046c79">India</b>,we shall be soon focusing on <b style="color: #046c79">gulf & south east asian countries along with europe,USA,AUs & NZ.</b>
+            </p>
+
+            <ul>
+              <li><i class="icofont-check-circled"></i>Industries that we mainly cater is <b style="color: #046c79">IT,Hospitality & Hotel Management</b> for possibly all the streams...from an <b style="color: #046c79">Intern,Trainee</b> to a mid and senior management employee is what we focus upon...</li>
+              <!-- <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li> -->
+            </ul>
+            <!-- <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
               velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
               culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            </p> -->
           </div>
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
+    <section class="about" data-aos="fade-up">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-6">
+            <br>
+            <br>
+             <h5 class="title"><a href="" style="color: #046c79">We Always Try to be the Best Support to get rid of as possible</a></h5>
+            <p class="font-italic">
+             
+             Our approach combines Global Reach, Industry Expertise, Personalized Service Offerings and On-Demand Talent, resulting in a frictionless total talent management solution. Whether you're looking to hire freelancers or find an executive, or seeking your dream job, <b style="color: #046c79">Uturn Group Organization</b>knows what it takes to land the perfect one.</p>
+<p class="font-italic">
+             
+            <p>What do you get when you combine the MBA degree with 18 Years of Experience in the Corporate field? - A Perfect Recruitment Company.<b style="color: #046c79">Uturn Group Organization</b> was founded in 2021 with the goal to provide smooth recruitment Solution to the clients.
+            
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+           
+           
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Section -->
 
     <!-- ======= Facts Section ======= -->
-    <section class="facts section-bg" data-aos="fade-up">
+    <!-- <section class="facts section-bg" data-aos="fade-up">
       <div class="container">
 
         <div class="row counters">
@@ -84,10 +124,10 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section> --><!-- End Facts Section -->
 
     <!-- ======= Our Skills Section ======= -->
-    <section class="skills" data-aos="fade-up">
+    <!-- <section class="skills" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -124,10 +164,10 @@
         </div>
 
       </div>
-    </section><!-- End Our Skills Section -->
+    </section> --><!-- End Our Skills Section -->
 
     <!-- ======= Tetstimonials Section ======= -->
-    <section class="testimonials" data-aos="fade-up">
+    <!-- <section class="testimonials" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -195,7 +235,7 @@
         </div>
 
       </div>
-    </section><!-- End Ttstimonials Section -->
+    </section> --><!-- End Ttstimonials Section -->
 
   </main><!-- End #main -->
 

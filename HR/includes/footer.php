@@ -56,12 +56,12 @@
 
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>About Uturn Group Organization</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>We at U-Turn Group always believe that a correct turn in your life can make things amazing and different. <br>U-Turn Group not only focuses on choosing right companies but also makes you prepare to face the world & be confident in choosing the correct career path of success.</p>
             <div class="social-links mt-3">
               <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="http://facebook.com/vaibhav.k.123276/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/invites/contact/?i=fny2k3fsg80s&utm_content=liptzt5" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/uturn-group-a4511420a/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 
