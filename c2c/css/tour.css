@@ -110,7 +110,7 @@ margin-bottom:0;
   visibility: visible;
   height: 100vh;
   background-color: #1b2f3c;
-  background-image: url("../img/tour/intro.png");
+  background-image: url("../img/tour/logo.jpg");
   background-size: cover;
    background-position: center center;
   background-repeat: no-repeat;
@@ -166,7 +166,7 @@ margin-bottom:0;
   background-size: cover;
 }
 .tour-section:nth-of-type(4) .half-container:first-of-type {
-  background-image: url("../img/tour/img-3.jpg");
+  background-image: url("../img/tour/positive.jpg");
   background-size: cover;
 }
 .tour-section:nth-of-type(5) .half-container:first-of-type {
