@@ -70,10 +70,10 @@
         </ul> <!-- side-nav-menu -->
 		<div id="social">
             <ul>
-               <li><a href="#"><i class="icon-facebook"></i></a></li>
-               <li><a href="#"><i class="icon-twitter"></i></a></li>
-               <li><a href="#"><i class="icon-google"></i></a></li>
-               <li><a href="#"><i class="icon-linkedin"></i></a></li>
+               <li><a href="https://www.facebook.com/UTurnGroup-104654138384492"><i class="icon-facebook"></i></a></li>
+               <li><a href="https://www.instagram.com/uturngroup/"><i class="icon-instagram"></i></a></li>
+               <!-- <li><a href="#"><i class="icon-google"></i></a></li> -->
+               <li><a href="https://www.linkedin.com/in/uturn-group-a4511420a/"><i class="icon-linkedin"></i></a></li>
            </ul>
        </div>
 	</nav><!--End nav-->
