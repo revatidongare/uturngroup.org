@@ -12,7 +12,7 @@
     
     <nav id="side-nav">
 		<ul class="side-nav-menu">    
-         <li class="item-has-children">
+         
 				<a href="index.php">Home</a>
 				<!-- <ul class="sub-menu">
 					<li><a href="index.php">Home Layer slider</a></li>
@@ -21,7 +21,7 @@
                     <li><a href="index_4.html">Home version 3</a></li>
                     <li><a href="index_5.html">Home quick contact</a></li>
 				</ul> -->
-			</li> <!-- item-has-children -->        
+			 <!-- item-has-children -->        
            <!--  <li class="item-has-children">
 				<a href="#">Academics</a>
 				<ul class="sub-menu">
@@ -32,16 +32,16 @@
                     <li><a href="staff.html">Staff</a></li>
 				</ul>
 			</li> --> <!-- item-has-children -->
-			<li class="item-has-children">
-				<a href="#">About</a>
-				<ul class="sub-menu">
+			
+				<a href="about.html">About Us</a>
+				<!-- <ul class="sub-menu">
 					<li><a href="about.html">About us</a></li>
                     <li><a href="contacts.html">Plan a visit</a></li>
-					<!-- <li><a href="staff.html">Staff</a></li> -->
+					<li><a href="staff.html">Staff</a></li>
 					<li><a href="gallery.html">Gallery</a></li>
-				</ul>
-			</li> <!-- item-has-children -->
-            <li>
+				</ul> -->
+			 <!-- item-has-children -->
+            <!-- <li> -->
             <!-- <li class="item-has-children">
 				<a href="#">Elements &amp; pages</a>
 				<ul class="sub-menu">
@@ -54,7 +54,7 @@
                     <li><a href="site_launch/index.php">Site launch/Coming soon</a></li>
 				</ul>
 			</li> --> <!-- item-has-children -->
-            <li>
+           
             <ul class="side-nav-menu single-item-wp">
                 <li><a href="tour.html">Tour</a></li>
                 <li><a href="blog.html">Blog</a></li>

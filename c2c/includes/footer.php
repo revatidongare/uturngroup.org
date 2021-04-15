@@ -39,7 +39,7 @@
                     </p>
                     <ul id="contacts_footer">
                         <li>Info line - <a href="tel://9579442271">+91 8766974657 / 9579442271</a></li>
-                        <li>Email - <a href="#">contact@uturngroup.org</a> </li>
+                        <li>Email - <a href="mailto:contact@uturngroup.org">contact@uturngroup.org</a> </li>
                     </ul>
                 </div>
             </div><!-- End row -->
