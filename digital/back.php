@@ -15,7 +15,7 @@ Dear ' . $name . ',
   Kind Regards,
 Uturn Group Organizaton,Pune.
   ';
-  $headers = 'From: pallavi@uturngroup.org.com';
+  $headers = 'From: contact@uturngroup.org.com';
 
   if (mail($to, $subject, $body, $headers)) {
     header('location:contact.php?p=3');
@@ -27,7 +27,7 @@ Uturn Group Organizaton,Pune.
   // email end
 
   //self mail
-$to_email1 = 'pallavi@uturngroup.org.com';
+$to_email1 = 'contact@uturngroup.org.com';
   $subject1 = ' Uturn Group Organizaton  ';
   $message1 = 'Customer Name: '.$name.
   "\n".

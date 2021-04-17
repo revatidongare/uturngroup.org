@@ -474,7 +474,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
     </section> -->
     <!--End testimonials section-->
 
-<section class="sponsors-logos">
+<!-- <section class="sponsors-logos">
         <div class="your-logo wow fadeInUp">
             <div class="sponsors-container">
                 <ul class="sponsors-slider">
@@ -523,15 +523,15 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
                             <a href="#"><img src="images/index/whispering.png" alt=""></a>
                         </div>
                     </li>
-                    <!-- <li class="image-holder">
+                    <li class="image-holder">
                         <div class="image-box">
                             <a href="#"><img src="images/clients/5.png" alt=""></a>
                         </div>
-                    </li> -->
+                    </li>
                 </ul>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--Choose Us-->
     <section class="choose-us">
         <div class="container">

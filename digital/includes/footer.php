@@ -3,10 +3,9 @@
             <div class="text-area">
                 <ul class="social-links text-center">
                     <li><a href="http://facebook.com/vaibhav.k.123276/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
                     <li><a href="https://www.instagram.com/invites/contact/?i=fny2k3fsg80s&utm_content=liptzt5" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    <a href="https://www.linkedin.com/in/uturn-group-a4511420a/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                    <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/uturn-group-a4511420a/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                 </ul>
             </div>                
         </div>

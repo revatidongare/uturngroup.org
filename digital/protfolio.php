@@ -40,7 +40,7 @@
             <div class="gallery-filter">
                 <ul class="post-filter list-inline">
                     <li class="active" data-filter=".filter-item">
-                        <span>All Work</span>
+                        <span>All Services</span>
                     </li>
                     <li data-filter=".Branding">
                         <span>DESIGN & DEVELOPMENT</span>
